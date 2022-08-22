@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Web camera
-cap = cv2.VideoCapture('Resources/res1_video.mp4')
+cap = cv2.VideoCapture('Resources/Videos/res1_video.mp4')
 
 # position of line
 count_line_position = 550
